@@ -13,8 +13,8 @@ const path = require('path');
 
 // Initialize the client
 const client = new OuthadSearch({
-  host: 'http://your-outhadsearch-host:7700',
-  apiKey: 'your-api-key'
+  host: 'OUTHADSEARCH_HOST',
+  apiKey: 'OUTHADSEARCH_API_KEY'
 });
 
 // Function to execute CLI commands programmatically
