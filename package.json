@@ -1,0 +1,33 @@
+{
+  "name": "outhadsearch-sdk-examples",
+  "version": "1.0.0",
+  "description": "Showcase for outhadsearch-sdk-js with examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example:config": "node examples/basic-configuration.js",
+    "example:indexes": "node examples/managing-indexes.js",
+    "example:documents": "node examples/working-with-documents.js",
+    "example:search": "node examples/performing-searches.js",
+    "example:advanced": "node examples/advanced-features.js",
+    "example:settings": "node examples/settings-management.js",
+    "example:filters": "node examples/filtering-and-faceting.js",
+    "examples": "npm run example:config && npm run example:indexes && npm run example:documents && npm run example:search && npm run example:settings && npm run example:filters && npm run example:advanced"
+  },
+  "keywords": [
+    "outhadsearch",
+    "search",
+    "sdk",
+    "examples",
+    "javascript",
+    "typescript",
+    "filters",
+    "facets",
+    "search-engine"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "outhadsearch-sdk-js": "^0.1.1"
+  }
+}

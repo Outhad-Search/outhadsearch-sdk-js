@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Outhad Search",
+    "content": "Outhad Search is a powerful search engine solution that allows you to build fast and relevant search experiences for your applications.",
+    "category": "Documentation",
+    "tags": ["introduction", "overview"]
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with Outhad SDK",
+    "content": "Learn how to install and configure the Outhad Search SDK for JavaScript and TypeScript projects.",
+    "category": "Tutorial",
+    "tags": ["sdk", "javascript", "typescript"]
+  },
+  {
+    "id": 3,
+    "title": "Advanced Search Features",
+    "content": "Explore advanced features like faceted search, filters, and relevance tuning to enhance your search experience.",
+    "category": "Documentation",
+    "tags": ["advanced", "features"]
+  },
+  {
+    "id": 4,
+    "title": "Building a Search UI",
+    "content": "Step-by-step guide to create a beautiful and responsive search interface using the Outhad Search SDK.",
+    "category": "Tutorial",
+    "tags": ["ui", "frontend", "javascript"]
+  },
+  {
+    "id": 5,
+    "title": "Performance Optimization Tips",
+    "content": "Best practices for optimizing your search indexes and queries for maximum performance.",
+    "category": "Best Practices",
+    "tags": ["performance", "optimization"]
+  },
+  {
+    "id": 6,
+    "title": "Using the Outhad CLI",
+    "content": "Learn how to use the command-line interface to manage your Outhad Search indexes and documents efficiently.",
+    "category": "Tutorial",
+    "tags": ["cli", "tools"]
+  },
+  {
+    "id": 7,
+    "title": "Relevance Tuning Guide",
+    "content": "Understanding how to tune your search relevance to provide the most accurate results to your users.",
+    "category": "Best Practices",
+    "tags": ["relevance", "tuning", "advanced"]
+  },
+  {
+    "id": 8,
+    "title": "Implementing Autocomplete",
+    "content": "How to implement fast and responsive autocomplete functionality using Outhad Search.",
+    "category": "Tutorial",
+    "tags": ["autocomplete", "ui", "javascript"]
+  },
+  {
+    "id": 9,
+    "title": "Real-time Search with Outhad",
+    "content": "Building real-time search experiences that update as new content is added to your application.",
+    "category": "Advanced",
+    "tags": ["real-time", "advanced"]
+  },
+  {
+    "id": 10,
+    "title": "Outhad Search API Reference",
+    "content": "Complete reference documentation for the Outhad Search API endpoints and parameters.",
+    "category": "Documentation",
+    "tags": ["api", "reference"]
+  }
+] 
